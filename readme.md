@@ -1,4 +1,4 @@
-## Esercizio di oggi(08/08/24):
+## Esercizio di oggi(08/03/24):
 
 nome repo: `db-university`
 
@@ -19,3 +19,13 @@ Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi
 
 Utilizzare https://www.diagrams.net/ per la creazione dello schema.
 Esportare quindi il diagramma in jpg e caricarlo nella repo.
+
+## Esercizio di oggi(11/03/24): DB University
+
+Nome repo: `db-university` (stessa dell'ultimo es)
+
+Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato, eseguite le query del file allegato.
+
+### Cosa consegnare?
+
+Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
